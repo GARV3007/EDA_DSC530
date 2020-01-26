@@ -1,0 +1,6 @@
+In this chapter we used many histograms to derive different results and conclusions. Histograms are useful because they make the most frequent valsues immediately apparent. But they are not the best choice for comaring two distributions.
+For this assinment, we will be using 'Histogram of Pregnancy length' to determine if First babies arrive late. 
+ 
+ Histogram shows most of the babies arrive in 38 weeks. We can see pregnancy period distribution of first baby is similar to as of others. We can see most of the first babies are born within 35 weeks to 43 weeks. First babies are less likely to be born in week 39, and somewhat more likely to be born in weeks 41 and 42. Looking into the chart, we can partially say that first babies doesn't arrive late.
+ 
+ 
